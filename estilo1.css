@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#CONTEINER1 {
+    background-color: white;
+}
+
+#LOGO {
+    background-color: green;
+}
+
+#TITULO {
+    background-color: pink;
+}
+
+#MENU1 {
+    background-color: red;
+}
+
+
+#CONTEINER2 {
+    background-color: yellow;
+}
+
+#MENU2 {
+    background-color: cyan;
+}
+
+#ADS {
+    background-color: gray;
+}
+
+#CONTEUDO {
+    background-color: brown;
+}
+
+
+#RODAPE {
+    background-color: blue;
+}
